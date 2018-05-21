@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroBlogging", "MicroBlogging\MicroBlogging.csproj", "{D0D5B0DE-8343-4FA8-B670-418153CDF2EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroBlogging.Tests", "MicroBlogging.Tests\MicroBlogging.Tests.csproj", "{331311E4-C1BB-486E-9AAB-45D9E4B435D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLayer", "DataAccessLayer\DataAccessLayer.csproj", "{A03D2B00-778B-44F6-8120-8E78A493A037}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLayer", "BusinessLayer\BusinessLayer.csproj", "{24905805-48C5-40E6-AE4D-87AEFF60FB6C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MicroBlogging.Web", "MicroBlogging.Web", "{15A96101-01F5-448E-A6E5-BCCF88B1DA26}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MicroBlogging.BusinessLayer", "MicroBlogging.BusinessLayer", "{38BE1611-005F-49B2-AA29-0B4966676A80}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MicroBlogging.DataAccessLayer", "MicroBlogging.DataAccessLayer", "{B51E7F9F-10E7-41D4-9AAA-AB769A02BFF3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MicroBlogging.Shared", "MicroBlogging.Shared", "{5D4D96DC-7099-4B0E-92FA-79CF899B37EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModelDTO", "ModelDTO\ModelDTO.csproj", "{9BB28E2B-0327-4A57-9D7E-B37F2184AB0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0D5B0DE-8343-4FA8-B670-418153CDF2EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0D5B0DE-8343-4FA8-B670-418153CDF2EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0D5B0DE-8343-4FA8-B670-418153CDF2EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0D5B0DE-8343-4FA8-B670-418153CDF2EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{331311E4-C1BB-486E-9AAB-45D9E4B435D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{331311E4-C1BB-486E-9AAB-45D9E4B435D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{331311E4-C1BB-486E-9AAB-45D9E4B435D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{331311E4-C1BB-486E-9AAB-45D9E4B435D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A03D2B00-778B-44F6-8120-8E78A493A037}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A03D2B00-778B-44F6-8120-8E78A493A037}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A03D2B00-778B-44F6-8120-8E78A493A037}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A03D2B00-778B-44F6-8120-8E78A493A037}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24905805-48C5-40E6-AE4D-87AEFF60FB6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24905805-48C5-40E6-AE4D-87AEFF60FB6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24905805-48C5-40E6-AE4D-87AEFF60FB6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24905805-48C5-40E6-AE4D-87AEFF60FB6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BB28E2B-0327-4A57-9D7E-B37F2184AB0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BB28E2B-0327-4A57-9D7E-B37F2184AB0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BB28E2B-0327-4A57-9D7E-B37F2184AB0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BB28E2B-0327-4A57-9D7E-B37F2184AB0C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D0D5B0DE-8343-4FA8-B670-418153CDF2EC} = {15A96101-01F5-448E-A6E5-BCCF88B1DA26}
+		{A03D2B00-778B-44F6-8120-8E78A493A037} = {B51E7F9F-10E7-41D4-9AAA-AB769A02BFF3}
+		{24905805-48C5-40E6-AE4D-87AEFF60FB6C} = {38BE1611-005F-49B2-AA29-0B4966676A80}
+		{9BB28E2B-0327-4A57-9D7E-B37F2184AB0C} = {5D4D96DC-7099-4B0E-92FA-79CF899B37EC}
+	EndGlobalSection
+EndGlobal

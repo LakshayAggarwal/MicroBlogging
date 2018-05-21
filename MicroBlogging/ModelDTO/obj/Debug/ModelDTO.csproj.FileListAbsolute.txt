@@ -1,0 +1,4 @@
+C:\Users\lakshayaggarwal\documents\visual studio 2017\Projects\MicroBlogging\ModelDTO\bin\Debug\ModelDTO.dll
+C:\Users\lakshayaggarwal\documents\visual studio 2017\Projects\MicroBlogging\ModelDTO\bin\Debug\ModelDTO.pdb
+C:\Users\lakshayaggarwal\documents\visual studio 2017\Projects\MicroBlogging\ModelDTO\obj\Debug\ModelDTO.dll
+C:\Users\lakshayaggarwal\documents\visual studio 2017\Projects\MicroBlogging\ModelDTO\obj\Debug\ModelDTO.pdb

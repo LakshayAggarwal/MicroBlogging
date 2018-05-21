@@ -1,0 +1,14 @@
+C:\Users\lakshayaggarwal\documents\visual studio 2017\Projects\MicroBlogging\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\lakshayaggarwal\documents\visual studio 2017\Projects\MicroBlogging\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\lakshayaggarwal\documents\visual studio 2017\Projects\MicroBlogging\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\lakshayaggarwal\documents\visual studio 2017\Projects\MicroBlogging\DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\lakshayaggarwal\documents\visual studio 2017\Projects\MicroBlogging\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lakshayaggarwal\documents\visual studio 2017\Projects\MicroBlogging\DataAccessLayer\bin\Debug\ModelDTO.dll
+C:\Users\lakshayaggarwal\documents\visual studio 2017\Projects\MicroBlogging\DataAccessLayer\bin\Debug\ModelDTO.pdb
+C:\Users\lakshayaggarwal\documents\visual studio 2017\Projects\MicroBlogging\DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\lakshayaggarwal\documents\visual studio 2017\Projects\MicroBlogging\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lakshayaggarwal\documents\visual studio 2017\Projects\MicroBlogging\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\lakshayaggarwal\documents\visual studio 2017\Projects\MicroBlogging\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\lakshayaggarwal\documents\visual studio 2017\Projects\MicroBlogging\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\lakshayaggarwal\documents\visual studio 2017\Projects\MicroBlogging\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.InitialCreate.resources
+C:\Users\lakshayaggarwal\documents\visual studio 2017\Projects\MicroBlogging\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.GenerateResource.Cache

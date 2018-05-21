@@ -1,0 +1,12 @@
+C:\Users\lakshayaggarwal\documents\visual studio 2017\Projects\MicroBlogging\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\lakshayaggarwal\documents\visual studio 2017\Projects\MicroBlogging\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\lakshayaggarwal\documents\visual studio 2017\Projects\MicroBlogging\BusinessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\lakshayaggarwal\documents\visual studio 2017\Projects\MicroBlogging\BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\lakshayaggarwal\documents\visual studio 2017\Projects\MicroBlogging\BusinessLayer\bin\Debug\ModelDTO.dll
+C:\Users\lakshayaggarwal\documents\visual studio 2017\Projects\MicroBlogging\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\lakshayaggarwal\documents\visual studio 2017\Projects\MicroBlogging\BusinessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\lakshayaggarwal\documents\visual studio 2017\Projects\MicroBlogging\BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\lakshayaggarwal\documents\visual studio 2017\Projects\MicroBlogging\BusinessLayer\bin\Debug\ModelDTO.pdb
+C:\Users\lakshayaggarwal\documents\visual studio 2017\Projects\MicroBlogging\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\lakshayaggarwal\documents\visual studio 2017\Projects\MicroBlogging\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\lakshayaggarwal\documents\visual studio 2017\Projects\MicroBlogging\BusinessLayer\obj\Debug\BusinessLayer.pdb
